@@ -160,3 +160,10 @@ a {
   text-decoration: none;
   letter-spacing: 2px;
 }
+
+footer p {
+  color: wheat
+  font-family: 'Times New Roman', sans-serif;
+  text-align: center;
+  font-size: small;
+}
